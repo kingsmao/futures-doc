@@ -1,5 +1,5 @@
 # 帮助中心
-* [language](../SUMMARY.md)
+* [Language](../SUMMARY.md)
     * [简体中文](SUMMARY.md)
     * [ENGLISH](../en/SUMMARY.md)
 * [概述](概述)
