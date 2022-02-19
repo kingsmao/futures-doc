@@ -1,5 +1,5 @@
 # 帮助中心
-* [language](../LANGS.md)
+* [language](../SUMMARY.md)
     * [简体中文](SUMMARY.md)
     * [ENGLISH](../en/SUMMARY.md)
 * [永续合约简介](永续合约简介.md)
