@@ -2,7 +2,7 @@
 
 * [Language](../SUMMARY.md)
     * [简体中文](SUMMARY.md)
-    * [English](../en/book.json)
+    * [English](../en/)
 * [永续合约简介](永续合约简介.md)
 * [概述](概述)
     * [资金费率](概述/资金费率.md)
