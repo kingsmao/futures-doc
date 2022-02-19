@@ -1,8 +1,10 @@
 # 帮助中心
 
-* [Language](../SUMMARY.md)
-    * [简体中文](SUMMARY.md)
-    * [English](../en/)
+[comment]: <> (* [Language]&#40;../SUMMARY.md&#41;)
+
+[comment]: <> (    * [简体中文]&#40;SUMMARY.md&#41;)
+
+[comment]: <> (    * [English]&#40;../en/&#41;)
 * [永续合约简介](永续合约简介.md)
 * [概述](概述)
     * [资金费率](概述/资金费率.md)
