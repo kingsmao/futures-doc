@@ -1,7 +1,7 @@
 # 帮助中心
 * [Language](../SUMMARY.md)
-    * [简体中文](SUMMARY.md)
-    * [ENGLISH](../en/SUMMARY.md)
+    * [简体中文]()
+    * [ENGLISH](../en)
 * [概述](概述)
     * [永续合约简介](概述/永续合约简介.md)
     * [资金费率](概述/资金费率.md)
